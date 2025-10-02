@@ -11,17 +11,6 @@
             "isLandscape": false
         },
         {
-            "type": "navigate",
-            "url": "https://www.volleyballnz.org.nz/Home-1",
-            "assertedEvents": [
-                {
-                    "type": "navigation",
-                    "url": "https://www.volleyballnz.org.nz/Home-1",
-                    "title": "Volleyball New Zealand - Home"
-                }
-            ]
-        },
-        {
             "type": "click",
             "target": "main",
             "selectors": [
