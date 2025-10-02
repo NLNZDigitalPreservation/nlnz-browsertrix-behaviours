@@ -1,1 +1,233 @@
+{
+    "title": "Volleyball-NZ",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 961,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.volleyballnz.org.nz/Home-1",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.volleyballnz.org.nz/Home-1",
+                    "title": "Volleyball New Zealand - Home"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#splitter_2351948_splitter_col1 > div:nth-of-type(2) li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2229120\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/#splitter_2351948_splitter_col1 > div:nth-of-type(2) li.news-list-next > a"
+                ]
+            ],
+            "offsetY": 10.734375,
+            "offsetX": 41.8125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#splitter_2351948_splitter_col1 > div:nth-of-type(2) li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2229120\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/#splitter_2351948_splitter_col1 > div:nth-of-type(2) li.news-list-next > a"
+                ]
+            ],
+            "offsetY": 14.734375,
+            "offsetX": 34.765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#splitter_2351948_splitter_col1 > div:nth-of-type(2) li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2229120\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/#splitter_2351948_splitter_col1 > div:nth-of-type(2) li.news-list-next > a"
+                ]
+            ],
+            "offsetY": 14.734375,
+            "offsetX": 34.765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#splitter_2351948_splitter_col1 > div:nth-of-type(2) li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2229120\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/#splitter_2351948_splitter_col1 > div:nth-of-type(2) li.news-list-next > a"
+                ]
+            ],
+            "offsetY": 13.890625,
+            "offsetX": 44.765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/← Newer"
+                ],
+                [
+                    "#splitter_2351948_splitter_col1 > div:nth-of-type(2) li.news-list-prev > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2229120\"]/ul/li[1]/a"
+                ],
+                [
+                    "pierce/#splitter_2351948_splitter_col1 > div:nth-of-type(2) li.news-list-prev > a"
+                ]
+            ],
+            "offsetY": 14.890625,
+            "offsetX": 45.484375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(5) li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2186108\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(5) li.news-list-next > a"
+                ]
+            ],
+            "offsetY": 13.109375,
+            "offsetX": 39.8125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(5) li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2186108\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(5) li.news-list-next > a"
+                ]
+            ],
+            "offsetY": 13.109375,
+            "offsetX": 19.765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(5) li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2186108\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(5) li.news-list-next > a"
+                ]
+            ],
+            "offsetY": 21.109375,
+            "offsetX": 42.765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(5) li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2186108\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(5) li.news-list-next > a"
+                ]
+            ],
+            "offsetY": 9.265625,
+            "offsetX": 40.765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(5) li.news-list-prev > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2186108\"]/ul/li[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(5) li.news-list-prev > a"
+                ]
+            ],
+            "offsetY": 20.109375,
+            "offsetX": 41.84375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(5) li.news-list-prev > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2186108\"]/ul/li[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(5) li.news-list-prev > a"
+                ]
+            ],
+            "offsetY": 13.265625,
+            "offsetX": 55.84375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(5) li.news-list-prev > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2186108\"]/ul/li[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(5) li.news-list-prev > a"
+                ]
+            ],
+            "offsetY": 20.109375,
+            "offsetX": 49.84375
+        }
+    ]
+}
 
