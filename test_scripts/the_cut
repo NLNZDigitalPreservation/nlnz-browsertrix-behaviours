@@ -1,1 +1,106 @@
+{
+    "title": "the_cut 10/7/2025 at 9:49:07 AM",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 682,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://thecut.partica.online/hope-publishing/the-cut-summer-2024/flipbook/2/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://thecut.partica.online/hope-publishing/the-cut-summer-2024/flipbook/2/",
+                    "title": "THE CUT Summer 2024"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/"
+                ],
+                [
+                    "#nextPage"
+                ],
+                [
+                    "xpath///*[@id=\"nextPage\"]"
+                ],
+                [
+                    "pierce/#nextPage"
+                ]
+            ],
+            "offsetY": 21.921875,
+            "offsetX": 7.71875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/"
+                ],
+                [
+                    "#nextPage"
+                ],
+                [
+                    "xpath///*[@id=\"nextPage\"]"
+                ],
+                [
+                    "pierce/#nextPage"
+                ]
+            ],
+            "offsetY": 21.921875,
+            "offsetX": 7.71875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/"
+                ],
+                [
+                    "#nextPage"
+                ],
+                [
+                    "xpath///*[@id=\"nextPage\"]"
+                ],
+                [
+                    "pierce/#nextPage"
+                ]
+            ],
+            "offsetY": 21.921875,
+            "offsetX": 7.71875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/"
+                ],
+                [
+                    "#nextPage"
+                ],
+                [
+                    "xpath///*[@id=\"nextPage\"]"
+                ],
+                [
+                    "pierce/#nextPage"
+                ]
+            ],
+            "offsetY": 21.921875,
+            "offsetX": 7.71875
+        }
+    ]
+}
 
