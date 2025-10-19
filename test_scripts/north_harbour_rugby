@@ -1,1 +1,210 @@
-
+{
+    "title": "North Harbour Rugby",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 907,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.harbourrugby.co.nz/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.harbourrugby.co.nz/",
+                    "title": "North Harbour Rugby Union - HOME"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#superSplitter_2159895 div.row > div > div:nth-of-type(1) > div > div > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_1666789\"]/div[2]/div/div[1]/div/div/a"
+                ],
+                [
+                    "pierce/#superSplitter_2159895 div.row > div > div:nth-of-type(1) > div > div > a"
+                ]
+            ],
+            "offsetY": 24.359375,
+            "offsetX": 59.40625,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.harbourrugby.co.nz/newsarticle/158160?newsfeedId=1666789",
+                    "title": "Helensville RFC to host North Harbour Community Sevens for 2025"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 11.609375,
+            "offsetX": 37.46875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 14.609375,
+            "offsetX": 41.34375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 10.609375,
+            "offsetX": 28.34375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 14.609375,
+            "offsetX": 23.34375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/← Newer"
+                ],
+                [
+                    "li.news-list-prev > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[1]/a"
+                ],
+                [
+                    "pierce/li.news-list-prev > a"
+                ],
+                [
+                    "text/← Newer"
+                ]
+            ],
+            "offsetY": 9.609375,
+            "offsetX": 44.59375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/← Newer"
+                ],
+                [
+                    "li.news-list-prev > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[1]/a"
+                ],
+                [
+                    "pierce/li.news-list-prev > a"
+                ],
+                [
+                    "text/← Newer"
+                ]
+            ],
+            "offsetY": 18.609375,
+            "offsetX": 52.59375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/← Newer"
+                ],
+                [
+                    "li.news-list-prev > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[1]/a"
+                ],
+                [
+                    "pierce/li.news-list-prev > a"
+                ],
+                [
+                    "text/← Newer"
+                ]
+            ],
+            "offsetY": 16.609375,
+            "offsetX": 43.59375
+        }
+    ]
+}
