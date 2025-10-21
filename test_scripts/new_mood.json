@@ -1,0 +1,330 @@
+{
+    "title": "new_mood",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1160,
+            "height": 1255,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.thenewmood.nz/browse-artists?Genre=House",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.thenewmood.nz/browse-artists?Genre=House",
+                    "title": "browse artists | The New Mood"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/BVRBWYRE. She/Her gallery",
+                    "aria/[role=\"image\"]"
+                ],
+                [
+                    "#PAGES_CONTAINER li:nth-of-type(1) img"
+                ],
+                [
+                    "xpath///*[@id=\"TPASection_l46xwy88\"]/div/div/div/div/div/div[2]/section/div/ul[1]/li[1]/div/div/a/div/div[1]/div/div/wow-image/img"
+                ],
+                [
+                    "pierce/#PAGES_CONTAINER li:nth-of-type(1) img"
+                ]
+            ],
+            "offsetY": 151,
+            "offsetX": 156
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 5,
+            "offsetX": 28.15625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 5,
+            "offsetX": 28.15625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 5,
+            "offsetX": 28.15625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 5,
+            "offsetX": 28.15625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Home"
+                ],
+                [
+                    "div.ujHWxY a:nth-of-type(1)"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[1]/div/a[1]"
+                ],
+                [
+                    "pierce/div.ujHWxY a:nth-of-type(1)"
+                ],
+                [
+                    "text/Home"
+                ]
+            ],
+            "offsetY": 1,
+            "offsetX": 30
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "a:nth-of-type(2) div.info-element-social"
+                ],
+                [
+                    "xpath///*[@id=\"item-wrapper-0e4384d8-efb1-479a-b5cd-4fdf66849be6\"]/div[2]/div/div/div/div/div[2]"
+                ],
+                [
+                    "pierce/a:nth-of-type(2) div.info-element-social"
+                ]
+            ],
+            "offsetY": 114.9998779296875,
+            "offsetX": 126.9998779296875
+        },
+        {
+            "type": "click",
+            "target": "https://www.thenewmood.nz/browse-artists?Genre=Drum+%26+Bass",
+            "selectors": [
+                [
+                    "aria/BVRBWYRE. She/Her gallery",
+                    "aria/[role=\"image\"]"
+                ],
+                [
+                    "#PAGES_CONTAINER li:nth-of-type(1) img"
+                ],
+                [
+                    "xpath///*[@id=\"TPASection_l46xwy88\"]/div/div/div/div/div/div[2]/section/div/ul[1]/li[1]/div/div/a/div/div[1]/div/div/wow-image/img"
+                ],
+                [
+                    "pierce/#PAGES_CONTAINER li:nth-of-type(1) img"
+                ]
+            ],
+            "offsetY": 283,
+            "offsetX": 183
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "a:nth-of-type(2) div.info-element-social"
+                ],
+                [
+                    "xpath///*[@id=\"item-wrapper-0e4384d8-efb1-479a-b5cd-4fdf66849be6\"]/div[2]/div/div/div/div/div[2]"
+                ],
+                [
+                    "pierce/a:nth-of-type(2) div.info-element-social"
+                ]
+            ],
+            "offsetY": 151.0025634765625,
+            "offsetX": 99.00259399414062
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Browse Artists",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "#comp-l3h8gl1a span"
+                ],
+                [
+                    "xpath///*[@data-testid=\"linkElement\"]/span"
+                ],
+                [
+                    "pierce/#comp-l3h8gl1a span"
+                ],
+                [
+                    "text/Browse Artists"
+                ]
+            ],
+            "offsetY": 6.296875,
+            "offsetX": 58.109375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/BVRBWYRE. She/Her gallery",
+                    "aria/[role=\"image\"]"
+                ],
+                [
+                    "#PAGES_CONTAINER li:nth-of-type(1) img"
+                ],
+                [
+                    "xpath///*[@id=\"TPASection_l46xwy88\"]/div/div/div/div/div/div[2]/section/div/ul[1]/li[1]/div/div/a/div/div[1]/div/div/wow-image/img"
+                ],
+                [
+                    "pierce/#PAGES_CONTAINER li:nth-of-type(1) img"
+                ]
+            ],
+            "offsetY": 180,
+            "offsetX": 180
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 40.15625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 40.15625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 40.15625
+        }
+    ]
+}
