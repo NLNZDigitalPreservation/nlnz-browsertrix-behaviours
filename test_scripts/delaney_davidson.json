@@ -1,0 +1,256 @@
+{
+    "title": "delaney_davidson",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1160,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.delaneydavidson.com/watch",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.delaneydavidson.com/watch",
+                    "title": "Watch — Delaney Davidson"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#yui_3_17_2_1_1761187113976_2933"
+                ],
+                [
+                    "xpath///*[@id=\"yui_3_17_2_1_1761187113976_2933\"]"
+                ],
+                [
+                    "pierce/#yui_3_17_2_1_1761187113976_2933"
+                ]
+            ],
+            "offsetY": 114.75,
+            "offsetX": 260.390625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Close"
+                ],
+                [
+                    "#yui_3_17_2_1_1761187113976_3485"
+                ],
+                [
+                    "xpath///*[@id=\"yui_3_17_2_1_1761187113976_3485\"]"
+                ],
+                [
+                    "pierce/#yui_3_17_2_1_1761187113976_3485"
+                ]
+            ],
+            "offsetY": 10.609375,
+            "offsetX": 13.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#yui_3_17_2_1_1761187113976_142 p"
+                ],
+                [
+                    "xpath///*[@id=\"yui_3_17_2_1_1761187113976_142\"]/div/div[1]/div/p"
+                ],
+                [
+                    "pierce/#yui_3_17_2_1_1761187113976_142 p"
+                ]
+            ],
+            "offsetY": 2.34375,
+            "offsetX": 88.6875
+        },
+        {
+            "type": "click",
+            "target": "https://www.youtube.com/embed/dtDBWbxYTBE?wmode=opaque",
+            "selectors": [
+                [
+                    "aria/Play"
+                ],
+                [
+                    "div.ytp-cued-thumbnail-overlay > button"
+                ],
+                [
+                    "xpath///*[@id=\"movie_player\"]/div[5]/button"
+                ],
+                [
+                    "pierce/div.ytp-cued-thumbnail-overlay > button"
+                ]
+            ],
+            "offsetY": 29.5,
+            "offsetX": 32
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Don't Walk Away From Love"
+                ],
+                [
+                    "#yui_3_17_2_1_1761187113976_143 h3"
+                ],
+                [
+                    "xpath///*[@id=\"yui_3_17_2_1_1761187113976_143\"]/div/div[1]/div/h3"
+                ],
+                [
+                    "pierce/#yui_3_17_2_1_1761187113976_143 h3"
+                ]
+            ],
+            "offsetY": 30.84375,
+            "offsetX": 124
+        },
+        {
+            "type": "click",
+            "target": "https://www.youtube.com/embed/7LGZdP7qb2o?si=Vgi0bt3WODicfBaK&wmode=opaque",
+            "selectors": [
+                [
+                    "div.ytp-cued-thumbnail-overlay > div"
+                ],
+                [
+                    "xpath///*[@id=\"movie_player\"]/div[5]/div"
+                ],
+                [
+                    "pierce/div.ytp-cued-thumbnail-overlay > div"
+                ]
+            ],
+            "offsetY": 255,
+            "offsetX": 489
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Heaven Is Falling"
+                ],
+                [
+                    "#yui_3_17_2_1_1761187113976_144 h3"
+                ],
+                [
+                    "xpath///*[@id=\"yui_3_17_2_1_1761187113976_144\"]/div/div[1]/div/h3"
+                ],
+                [
+                    "pierce/#yui_3_17_2_1_1761187113976_144 h3"
+                ]
+            ],
+            "offsetY": 20.34375,
+            "offsetX": 63.875
+        },
+        {
+            "type": "click",
+            "target": "https://www.youtube.com/embed/aCYCBYZtyf8?si=3tUV0Cj7n9bS6j7s&wmode=opaque",
+            "selectors": [
+                [
+                    "aria/Play"
+                ],
+                [
+                    "div.ytp-cued-thumbnail-overlay > button"
+                ],
+                [
+                    "xpath///*[@id=\"movie_player\"]/div[5]/button"
+                ],
+                [
+                    "pierce/div.ytp-cued-thumbnail-overlay > button"
+                ]
+            ],
+            "offsetY": 18.5,
+            "offsetX": 3
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/So Far Away"
+                ],
+                [
+                    "#yui_3_17_2_1_1761187113976_145 h3"
+                ],
+                [
+                    "xpath///*[@id=\"yui_3_17_2_1_1761187113976_145\"]/div/div[1]/div/h3"
+                ],
+                [
+                    "pierce/#yui_3_17_2_1_1761187113976_145 h3"
+                ]
+            ],
+            "offsetY": 14.515625,
+            "offsetX": 95.453125
+        },
+        {
+            "type": "click",
+            "target": "https://www.youtube.com/embed/nFvXJ2QDYbM?wmode=opaque",
+            "selectors": [
+                [
+                    "aria/Play"
+                ],
+                [
+                    "div.ytp-cued-thumbnail-overlay > button"
+                ],
+                [
+                    "xpath///*[@id=\"movie_player\"]/div[5]/button"
+                ],
+                [
+                    "pierce/div.ytp-cued-thumbnail-overlay > button"
+                ]
+            ],
+            "offsetY": 17.5,
+            "offsetX": 25
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Broken Wheel"
+                ],
+                [
+                    "#yui_3_17_2_1_1761187113976_146 h3"
+                ],
+                [
+                    "xpath///*[@id=\"yui_3_17_2_1_1761187113976_146\"]/div/div[1]/div/h3"
+                ],
+                [
+                    "pierce/#yui_3_17_2_1_1761187113976_146 h3"
+                ]
+            ],
+            "offsetY": 12.515625,
+            "offsetX": 61.296875
+        },
+        {
+            "type": "click",
+            "target": "https://www.youtube.com/embed/bQ1M-C-2Hcg??wmode=opaque",
+            "selectors": [
+                [
+                    "aria/Play"
+                ],
+                [
+                    "div.ytp-cued-thumbnail-overlay > button"
+                ],
+                [
+                    "xpath///*[@id=\"movie_player\"]/div[5]/button"
+                ],
+                [
+                    "pierce/div.ytp-cued-thumbnail-overlay > button"
+                ]
+            ],
+            "offsetY": 31.5,
+            "offsetX": 28
+        }
+    ]
+}
