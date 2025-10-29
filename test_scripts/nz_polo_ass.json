@@ -1,0 +1,233 @@
+{
+    "title": "nz_polo_ass",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1160,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.polo.org.nz/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.polo.org.nz/",
+                    "title": "New Zealand Polo Association - Home"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(1) > dd a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_2205337\"]/dl/div[1]/dd/p/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(1) > dd a"
+                ]
+            ],
+            "offsetY": 18.484375,
+            "offsetX": 25.546875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.polo.org.nz/newsarticle/155277?newsfeedId=2205337",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 6.609375,
+            "offsetX": 36.96875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 12.609375,
+            "offsetX": 32.4375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 14.609375,
+            "offsetX": 32.4375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 14.609375,
+            "offsetX": 32.4375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 18.609375,
+            "offsetX": 35.4375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/← Newer"
+                ],
+                [
+                    "li.news-list-prev > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[1]/a"
+                ],
+                [
+                    "pierce/li.news-list-prev > a"
+                ],
+                [
+                    "text/← Newer"
+                ]
+            ],
+            "offsetY": 10.609375,
+            "offsetX": 52.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/← Newer"
+                ],
+                [
+                    "li.news-list-prev > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[1]/a"
+                ],
+                [
+                    "pierce/li.news-list-prev > a"
+                ],
+                [
+                    "text/← Newer"
+                ]
+            ],
+            "offsetY": 6.609375,
+            "offsetX": 53.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/← Newer"
+                ],
+                [
+                    "li.news-list-prev > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[1]/a"
+                ],
+                [
+                    "pierce/li.news-list-prev > a"
+                ],
+                [
+                    "text/← Newer"
+                ]
+            ],
+            "offsetY": 16.609375,
+            "offsetX": 46.5
+        }
+    ]
+}
