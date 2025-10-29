@@ -1,0 +1,286 @@
+{
+    "title": "coup_de_main",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1362,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://coupdemainmagazine.com/index.php/news",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://coupdemainmagazine.com/index.php/news",
+                    "title": "News | Coup de Main Magazine"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SHOW ME MORE"
+                ],
+                [
+                    "#first-content ul a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-content\"]/div/div/ul/li/a"
+                ],
+                [
+                    "pierce/#first-content ul a"
+                ],
+                [
+                    "text/Show me more"
+                ]
+            ],
+            "offsetY": 25.78125,
+            "offsetX": 58.0625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SHOW ME MORE"
+                ],
+                [
+                    "#first-content ul a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-content\"]/div/div/ul/li/a"
+                ],
+                [
+                    "pierce/#first-content ul a"
+                ],
+                [
+                    "text/Show me more"
+                ]
+            ],
+            "offsetY": 42.78125,
+            "offsetX": 62.0625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SHOW ME MORE"
+                ],
+                [
+                    "#first-content ul a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-content\"]/div/div/ul/li/a"
+                ],
+                [
+                    "pierce/#first-content ul a"
+                ],
+                [
+                    "text/Show me more"
+                ]
+            ],
+            "offsetY": 36.78125,
+            "offsetX": 57.0625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SHOW ME MORE"
+                ],
+                [
+                    "#first-content ul a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-content\"]/div/div/ul/li/a"
+                ],
+                [
+                    "pierce/#first-content ul a"
+                ],
+                [
+                    "text/Show me more"
+                ]
+            ],
+            "offsetY": 13.78125,
+            "offsetX": 64.0625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Interviews"
+                ],
+                [
+                    "#main-header li:nth-of-type(2) > a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-main-menu\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/#main-header li:nth-of-type(2) > a"
+                ]
+            ],
+            "offsetY": 26.78125,
+            "offsetX": 130.046875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://coupdemainmagazine.com/interviews",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SHOW ME MORE"
+                ],
+                [
+                    "#first-content ul a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-content\"]/div/div/ul/li/a"
+                ],
+                [
+                    "pierce/#first-content ul a"
+                ],
+                [
+                    "text/Show me more"
+                ]
+            ],
+            "offsetY": 39.78125,
+            "offsetX": 82.0625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SHOW ME MORE"
+                ],
+                [
+                    "#first-content ul a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-content\"]/div/div/ul/li/a"
+                ],
+                [
+                    "pierce/#first-content ul a"
+                ],
+                [
+                    "text/Show me more"
+                ]
+            ],
+            "offsetY": 31.78125,
+            "offsetX": 102.0625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SHOW ME MORE"
+                ],
+                [
+                    "#first-content ul a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-content\"]/div/div/ul/li/a"
+                ],
+                [
+                    "pierce/#first-content ul a"
+                ],
+                [
+                    "text/Show me more"
+                ]
+            ],
+            "offsetY": 41.78125,
+            "offsetX": 102.0625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SHOW ME MORE"
+                ],
+                [
+                    "#first-content ul a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-content\"]/div/div/ul/li/a"
+                ],
+                [
+                    "pierce/#first-content ul a"
+                ],
+                [
+                    "text/Show me more"
+                ]
+            ],
+            "offsetY": 38.78125,
+            "offsetX": 125.0625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Cover Stories"
+                ],
+                [
+                    "#main-header li:nth-of-type(3) > a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-main-menu\"]/ul/li[3]/a"
+                ],
+                [
+                    "pierce/#main-header li:nth-of-type(3) > a"
+                ]
+            ],
+            "offsetY": 28.78125,
+            "offsetX": 111.46875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://coupdemainmagazine.com/covers",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SHOW ME MORE"
+                ],
+                [
+                    "#first-content ul a"
+                ],
+                [
+                    "xpath///*[@id=\"block-coup-content\"]/div/div/ul/li/a"
+                ],
+                [
+                    "pierce/#first-content ul a"
+                ],
+                [
+                    "text/Show me more"
+                ]
+            ],
+            "offsetY": 13.78125,
+            "offsetX": 105.0625
+        }
+    ]
+}
