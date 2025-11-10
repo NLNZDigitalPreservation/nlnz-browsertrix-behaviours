@@ -1,0 +1,105 @@
+{
+    "title": "sniffers",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1362,
+            "height": 896,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://sniffers.co.nz/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://sniffers.co.nz/",
+                    "title": "Sniffers"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div._k4rda7 > div > div"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/div/div/div/div[3]/div[1]/div/div[2]/div/div"
+                ],
+                [
+                    "pierce/div._k4rda7 > div > div"
+                ],
+                [
+                    "text/Load more"
+                ]
+            ],
+            "offsetY": 10.40625,
+            "offsetX": 476.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div._k4rda7 > div > div"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/div/div/div/div[3]/div[1]/div/div[2]/div/div"
+                ],
+                [
+                    "pierce/div._k4rda7 > div > div"
+                ],
+                [
+                    "text/Load more"
+                ]
+            ],
+            "offsetY": 11.8125,
+            "offsetX": 480.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div._k4rda7 > div > div"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/div/div/div/div[3]/div[1]/div/div[2]/div/div"
+                ],
+                [
+                    "pierce/div._k4rda7 > div > div"
+                ],
+                [
+                    "text/Load more"
+                ]
+            ],
+            "offsetY": 7.21875,
+            "offsetX": 454.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div._k4rda7 > div > div"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/div/div/div/div[3]/div[1]/div/div[2]/div/div"
+                ],
+                [
+                    "pierce/div._k4rda7 > div > div"
+                ],
+                [
+                    "text/Load more"
+                ]
+            ],
+            "offsetY": 4.625,
+            "offsetX": 456.5
+        }
+    ]
+}
