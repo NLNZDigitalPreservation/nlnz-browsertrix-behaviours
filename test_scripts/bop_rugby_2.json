@@ -1,0 +1,429 @@
+{
+    "title": "bop_rugby_2",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 792,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.boprugby.co.nz/news",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/news",
+                    "title": "Bay of Plenty Rugby Union - News"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#section-content div.row > div:nth-of-type(1) > div:nth-of-type(1) > div > div > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_1220253\"]/div[2]/div[1]/div[1]/div/div/a"
+                ],
+                [
+                    "pierce/#section-content div.row > div:nth-of-type(1) > div:nth-of-type(1) > div > div > a"
+                ]
+            ],
+            "offsetY": 11.796875,
+            "offsetX": 48,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/156288?newsfeedId=1220253",
+                    "title": "New Zealand Provincial Union Group welcomes Spark as official national partner and exclusive telecommunications provider"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/New Zealand Provincial Union Group welcomes Spark as official national partner and exclusive telecommunications provider[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(1) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[1]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(1) > dt a"
+                ]
+            ],
+            "offsetY": 81.609375,
+            "offsetX": 77,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/156288?newsfeedId=1220253",
+                    "title": "New Zealand Provincial Union Group welcomes Spark as official national partner and exclusive telecommunications provider"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Last Gasp Loss Fuels Hunger to go that one final step in 2025[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(2) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[2]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > dt a"
+                ],
+                [
+                    "text/Last Gasp Loss"
+                ]
+            ],
+            "offsetY": 3.609375,
+            "offsetX": 55,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/151656?newsfeedId=1220253",
+                    "title": "Last Gasp Loss Fuels Hunger to go that one final step in 2025"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Ako Wahine Programme[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(3) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[3]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) > dt a"
+                ]
+            ],
+            "offsetY": 6.609375,
+            "offsetX": 69,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/150709?newsfeedId=1220253",
+                    "title": "Ako Wahine Programme"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 16.609375,
+            "offsetX": 38.109375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(1) > dd a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[1]/dd/p/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(1) > dd a"
+                ]
+            ],
+            "offsetY": 17.609375,
+            "offsetX": 15.921875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/150696?newsfeedId=1220253&newsfeedPageNum=1",
+                    "title": "BOPRU AGM 2025"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(2) > dd a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[2]/dd/p/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > dd a"
+                ]
+            ],
+            "offsetY": 17.609375,
+            "offsetX": 46.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/144057?newsfeedId=1220253&newsfeedPageNum=1",
+                    "title": "Devan Plastics jumps at the chance to support BOP Rugby"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 16.609375,
+            "offsetX": 38.046875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 13.609375,
+            "offsetX": 47.046875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(1) > dd a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[1]/dd/p/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(1) > dd a"
+                ]
+            ],
+            "offsetY": 19.609375,
+            "offsetX": 41.984375,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/141753?newsfeedId=1220253&newsfeedPageNum=3",
+                    "title": "Generation Homes is backing the Bay"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(2) > dd a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[2]/dd/p/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > dd a"
+                ]
+            ],
+            "offsetY": 20.609375,
+            "offsetX": 44.390625,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/141727?newsfeedId=1220253&newsfeedPageNum=3",
+                    "title": "AR Plus Baywide Premier Mens Round 2 draw released"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) > dd a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[3]/dd/p/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) > dd a"
+                ]
+            ],
+            "offsetY": 17.609375,
+            "offsetX": 44.1875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/141654?newsfeedId=1220253&newsfeedPageNum=3",
+                    "title": "Kaimai Eggs hatches a plan to support BOP Rugby"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 13.609375,
+            "offsetX": 32.046875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(1) > dd a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[1]/dd/p/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(1) > dd a"
+                ]
+            ],
+            "offsetY": 9.609375,
+            "offsetX": 44.8125,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/141501?newsfeedId=1220253&newsfeedPageNum=4",
+                    "title": "Pat Rae Resigns as GM of Community Rugby"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Volcanix 2024 Wider Squad get together[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(2) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[2]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > dt a"
+                ],
+                [
+                    "text/Volcanix 2024"
+                ]
+            ],
+            "offsetY": 23.609375,
+            "offsetX": 63,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/140964?newsfeedId=1220253&newsfeedPageNum=4",
+                    "title": "Volcanix 2024 Wider Squad get together"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Total Door Systems joins the Steamers and Volcanix team[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(3) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[3]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) > dt a"
+                ],
+                [
+                    "text/Total Door Systems"
+                ]
+            ],
+            "offsetY": 27.609375,
+            "offsetX": 69,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.boprugby.co.nz/newsarticle/140958?newsfeedId=1220253&newsfeedPageNum=4",
+                    "title": "Total Door Systems joins the Steamers and Volcanix team"
+                }
+            ]
+        }
+    ]
+}
