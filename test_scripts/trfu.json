@@ -1,0 +1,393 @@
+{
+    "title": "trfu",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 792,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.trfu.co.nz/news",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/news",
+                    "title": "Taranaki Rugby - NEWS"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_694504\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 16,
+            "offsetX": 24.296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#section-content div.row > div:nth-of-type(1) > div:nth-of-type(1) > div > div > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_694504\"]/div[2]/div[1]/div[1]/div/div/a"
+                ],
+                [
+                    "pierce/#section-content div.row > div:nth-of-type(1) > div:nth-of-type(1) > div > div > a"
+                ]
+            ],
+            "offsetY": 22,
+            "offsetX": 41,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/newsarticle/155040?newsfeedId=694504&newsfeedPageNum=1",
+                    "title": "Taranaki Sign Super Rugby Flyer Taniela Rakuro as Injury Replacement for Kini Naholo"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/2025 Baker Tilly Staples Rodway Junior Festival set to kick off[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(1) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[1]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(1) > dt a"
+                ],
+                [
+                    "text/2025 Baker Tilly"
+                ]
+            ],
+            "offsetY": 10.609375,
+            "offsetX": 204.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/newsarticle/157576?newsfeedId=694504&newsfeedPageNum=1",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Glass Group Supporting the Future of Women’s Rugby in Taranaki[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(2) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[2]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > dt a"
+                ],
+                [
+                    "text/Glass Group Supporting"
+                ]
+            ],
+            "offsetY": 8.609375,
+            "offsetX": 133.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/newsarticle/156606?newsfeedId=694504&newsfeedPageNum=1",
+                    "title": "Glass Group Supporting the Future of Women’s Rugby in Taranaki"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Excitement building ahead of Clelands Club Day[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(3) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[3]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) > dt a"
+                ],
+                [
+                    "text/Excitement building"
+                ]
+            ],
+            "offsetY": 5.609375,
+            "offsetX": 79.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/newsarticle/156376?newsfeedId=694504&newsfeedPageNum=1",
+                    "title": "Excitement building ahead of Clelands Club Day"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 14.609375,
+            "offsetX": 38.109375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/New Zealand Provincial Union Group welcomes Spark as official national partner and exclusive telecommunications provider[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(1) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[1]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(1) > dt a"
+                ]
+            ],
+            "offsetY": 32.609375,
+            "offsetX": 135.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/newsarticle/156294?newsfeedId=694504&newsfeedPageNum=2",
+                    "title": "New Zealand Provincial Union Group welcomes Spark as official national partner and exclusive telecommunications provider"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Shimizu Koto Blue Sharks and Taranaki Rugby enter third year of High-Performance Partnership[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(2) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[2]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > dt a"
+                ]
+            ],
+            "offsetY": 30.609375,
+            "offsetX": 107.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/newsarticle/155581?newsfeedId=694504&newsfeedPageNum=2",
+                    "title": "Shimizu Koto Blue Sharks and Taranaki Rugby enter third year of High-Performance Partnership"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Tim Stuck steps into Central Roofing Taranaki Whio Head Coach role[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(3) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[3]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) > dt a"
+                ]
+            ],
+            "offsetY": 19.609375,
+            "offsetX": 83.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/newsarticle/155254?newsfeedId=694504&newsfeedPageNum=2",
+                    "title": "Tim Stuck steps into Central Roofing Taranaki Whio Head Coach role"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 17.609375,
+            "offsetX": 37.109375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Taranaki Sign Super Rugby Flyer Taniela Rakuro as Injury Replacement for Kini Naholo[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(1) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[1]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(1) > dt a"
+                ]
+            ],
+            "offsetY": 21.609375,
+            "offsetX": 41.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/newsarticle/155040?newsfeedId=694504&newsfeedPageNum=3",
+                    "title": "Taranaki Sign Super Rugby Flyer Taniela Rakuro as Injury Replacement for Kini Naholo"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/2,000+ tickets sold for Yarrows Taranaki Bulls Bread Capital Ranfurly Shield defence[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(2) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[2]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > dt a"
+                ]
+            ],
+            "offsetY": 29.609375,
+            "offsetX": 144.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/newsarticle/154998?newsfeedId=694504&newsfeedPageNum=3",
+                    "title": "2,000+ tickets sold for Yarrows Taranaki Bulls Bread Capital Ranfurly Shield defence"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Warner Construction extend their Taranaki Rugby partnership for a further two years[role=\"link\"]"
+                ],
+                [
+                    "div:nth-of-type(3) > dt a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/dl/div[3]/dt/div[1]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) > dt a"
+                ]
+            ],
+            "offsetY": 27.609375,
+            "offsetX": 115.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.trfu.co.nz/newsarticle/153824?newsfeedId=694504&newsfeedPageNum=3",
+                    "title": "Warner Construction extend their Taranaki Rugby partnership for a further two years"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_newslist_wrapper\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 15.609375,
+            "offsetX": 37.109375
+        }
+    ]
+}
