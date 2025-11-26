@@ -1,0 +1,162 @@
+{
+    "title": "the_new_mood",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1042,
+            "height": 896,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.thenewmood.nz/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.thenewmood.nz/",
+                    "title": "home | The New Mood"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Browse Artists",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "#comp-l3h8gl1a span"
+                ],
+                [
+                    "xpath///*[@data-testid=\"linkElement\"]/span"
+                ],
+                [
+                    "pierce/#comp-l3h8gl1a span"
+                ],
+                [
+                    "text/Browse Artists"
+                ]
+            ],
+            "offsetY": 16.296875,
+            "offsetX": 51.109375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/BVRBWYRE. She/Her gallery",
+                    "aria/[role=\"image\"]"
+                ],
+                [
+                    "#PAGES_CONTAINER li:nth-of-type(1) img"
+                ],
+                [
+                    "xpath///*[@id=\"TPASection_l46xwy88\"]/div/div/div/div/div/div[2]/section/div/ul[1]/li[1]/div/div/a/div/div[1]/div/div/wow-image/img"
+                ],
+                [
+                    "pierce/#PAGES_CONTAINER li:nth-of-type(1) img"
+                ]
+            ],
+            "offsetY": 136,
+            "offsetX": 63.125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 9,
+            "offsetX": 34.15625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 9,
+            "offsetX": 34.15625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 9,
+            "offsetX": 34.15625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "a.SSBRY9"
+                ],
+                [
+                    "xpath///*[@id=\"TPAMultiSection_l3h2hiup\"]/div/div/div/div/article/div[1]/div/div[2]/nav/div[2]/a[2]"
+                ],
+                [
+                    "pierce/a.SSBRY9"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 9,
+            "offsetX": 34.15625
+        }
+    ]
+}
