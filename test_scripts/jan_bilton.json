@@ -1,0 +1,110 @@
+{
+    "title": "jan_bilton",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1042,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://janbilton.rocketspark.co.nz/blog/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://janbilton.rocketspark.co.nz/blog/",
+                    "title": "Blog | Irvine Holt"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.blog-list__load-more--desktop-only > span"
+                ],
+                [
+                    "xpath///*[@id=\"blog_main\"]/div[4]/span"
+                ],
+                [
+                    "pierce/div.blog-list__load-more--desktop-only > span"
+                ]
+            ],
+            "offsetY": 43.0625,
+            "offsetX": 87.9375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.blog-list__load-more--desktop-only > span"
+                ],
+                [
+                    "xpath///*[@id=\"blog_main\"]/div[4]/span"
+                ],
+                [
+                    "pierce/div.blog-list__load-more--desktop-only > span"
+                ]
+            ],
+            "offsetY": 36.125,
+            "offsetX": 92.9375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.blog-list__load-more--desktop-only > span"
+                ],
+                [
+                    "xpath///*[@id=\"blog_main\"]/div[4]/span"
+                ],
+                [
+                    "pierce/div.blog-list__load-more--desktop-only > span"
+                ]
+            ],
+            "offsetY": 49.125,
+            "offsetX": 159.9375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.blog-list__load-more--desktop-only > span"
+                ],
+                [
+                    "xpath///*[@id=\"blog_main\"]/div[4]/span"
+                ],
+                [
+                    "pierce/div.blog-list__load-more--desktop-only > span"
+                ]
+            ],
+            "offsetY": 45.125,
+            "offsetX": 125.9375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.blog-list__load-more--desktop-only > span"
+                ],
+                [
+                    "xpath///*[@id=\"blog_main\"]/div[4]/span"
+                ],
+                [
+                    "pierce/div.blog-list__load-more--desktop-only > span"
+                ]
+            ],
+            "offsetY": 38.125,
+            "offsetX": 126.9375
+        }
+    ]
+}
