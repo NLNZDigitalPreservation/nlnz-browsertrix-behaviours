@@ -1,0 +1,160 @@
+{
+    "title": "13th Floor",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 840,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://13thfloor.co.nz/latest-posts/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://13thfloor.co.nz/latest-posts/",
+                    "title": "Latest Posts | The 13th Floor"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/2"
+                ],
+                [
+                    "div.pagenav > a:nth-of-type(1)"
+                ],
+                [
+                    "xpath///*[@id=\"themify_builder_content-210762\"]/div/div/div/div/div[2]/a[1]"
+                ],
+                [
+                    "pierce/div.pagenav > a:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 31.765625,
+            "offsetX": 16.625,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://13thfloor.co.nz/latest-posts/page/2/",
+                    "title": "Latest Posts | The 13th Floor | Page 2"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/3"
+                ],
+                [
+                    "a:nth-of-type(3)"
+                ],
+                [
+                    "xpath///*[@id=\"themify_builder_content-210762\"]/div/div/div/div/div[2]/a[3]"
+                ],
+                [
+                    "pierce/a:nth-of-type(3)"
+                ]
+            ],
+            "offsetY": 25.6875,
+            "offsetX": 16.296875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://13thfloor.co.nz/latest-posts/page/3/",
+                    "title": "Latest Posts | The 13th Floor | Page 3"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/4"
+                ],
+                [
+                    "a:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"themify_builder_content-210762\"]/div/div/div/div/div[2]/a[4]"
+                ],
+                [
+                    "pierce/a:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 12,
+            "offsetX": 12.75,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://13thfloor.co.nz/latest-posts/page/4/",
+                    "title": "Latest Posts | The 13th Floor | Page 4"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/5"
+                ],
+                [
+                    "a:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"themify_builder_content-210762\"]/div/div/div/div/div[2]/a[4]"
+                ],
+                [
+                    "pierce/a:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 24.03125,
+            "offsetX": 23.4375,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://13thfloor.co.nz/latest-posts/page/5/",
+                    "title": "Latest Posts | The 13th Floor | Page 5"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/6"
+                ],
+                [
+                    "a:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"themify_builder_content-210762\"]/div/div/div/div/div[2]/a[4]"
+                ],
+                [
+                    "pierce/a:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 24.9375,
+            "offsetX": 18.25,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://13thfloor.co.nz/latest-posts/page/6/",
+                    "title": "Latest Posts | The 13th Floor | Page 6"
+                }
+            ]
+        }
+    ]
+}
