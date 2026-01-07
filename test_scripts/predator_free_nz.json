@@ -1,0 +1,214 @@
+{
+    "title": "predator_free_nz",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1065,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://predatorfreenz.org/stories-research/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://predatorfreenz.org/stories-research/",
+                    "title": "Stories and research - Predator Free NZ Trust"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/2"
+                ],
+                [
+                    "div.wp-block-ultimate-post-post-pagination li:nth-of-type(5) > a"
+                ],
+                [
+                    "xpath///*[@id=\"post-8374\"]/div/div[2]/div[1]/div[2]/div/ul/li[5]/a"
+                ],
+                [
+                    "pierce/div.wp-block-ultimate-post-post-pagination li:nth-of-type(5) > a"
+                ]
+            ],
+            "offsetY": 15.8125,
+            "offsetX": 19.28125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/3"
+                ],
+                [
+                    "div.wp-block-ultimate-post-post-pagination li:nth-of-type(6) > a"
+                ],
+                [
+                    "xpath///*[@id=\"post-8374\"]/div/div[2]/div[1]/div[2]/div/ul/li[6]/a"
+                ],
+                [
+                    "pierce/div.wp-block-ultimate-post-post-pagination li:nth-of-type(6) > a"
+                ]
+            ],
+            "offsetY": 13.8125,
+            "offsetX": 18.015625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/3"
+                ],
+                [
+                    "div.wp-block-ultimate-post-post-pagination li:nth-of-type(6) > a"
+                ],
+                [
+                    "xpath///*[@id=\"post-8374\"]/div/div[2]/div[1]/div[2]/div/ul/li[6]/a"
+                ],
+                [
+                    "pierce/div.wp-block-ultimate-post-post-pagination li:nth-of-type(6) > a"
+                ]
+            ],
+            "offsetY": 15.8125,
+            "offsetX": 16.171875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/3"
+                ],
+                [
+                    "div.wp-block-ultimate-post-post-pagination li:nth-of-type(6) > a"
+                ],
+                [
+                    "xpath///*[@id=\"post-8374\"]/div/div[2]/div[1]/div[2]/div/ul/li[6]/a"
+                ],
+                [
+                    "pierce/div.wp-block-ultimate-post-post-pagination li:nth-of-type(6) > a"
+                ]
+            ],
+            "offsetY": 18.8125,
+            "offsetX": 9.71875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/3"
+                ],
+                [
+                    "div.wp-block-ultimate-post-post-pagination li:nth-of-type(6) > a"
+                ],
+                [
+                    "xpath///*[@id=\"post-8374\"]/div/div[2]/div[1]/div[2]/div/ul/li[6]/a"
+                ],
+                [
+                    "pierce/div.wp-block-ultimate-post-post-pagination li:nth-of-type(6) > a"
+                ]
+            ],
+            "offsetY": 15.8125,
+            "offsetX": 15.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/51"
+                ],
+                [
+                    "li.ultp-last-pages > a"
+                ],
+                [
+                    "xpath///*[@id=\"post-8374\"]/div/div[2]/div[1]/div[2]/div/ul/li[8]/a"
+                ],
+                [
+                    "pierce/li.ultp-last-pages > a"
+                ],
+                [
+                    "text/51"
+                ]
+            ],
+            "offsetY": 12.8125,
+            "offsetX": 29.046875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/50"
+                ],
+                [
+                    "div.wp-block-ultimate-post-post-pagination li:nth-of-type(5) > a"
+                ],
+                [
+                    "xpath///*[@id=\"post-8374\"]/div/div[2]/div[1]/div[2]/div/ul/li[5]/a"
+                ],
+                [
+                    "pierce/div.wp-block-ultimate-post-post-pagination li:nth-of-type(5) > a"
+                ]
+            ],
+            "offsetY": 17.8125,
+            "offsetX": 32.609375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/49"
+                ],
+                [
+                    "div.wp-block-ultimate-post-post-pagination li:nth-of-type(4) > a"
+                ],
+                [
+                    "xpath///*[@id=\"post-8374\"]/div/div[2]/div[1]/div[2]/div/ul/li[4]/a"
+                ],
+                [
+                    "pierce/div.wp-block-ultimate-post-post-pagination li:nth-of-type(4) > a"
+                ],
+                [
+                    "text/49"
+                ]
+            ],
+            "offsetY": 5.8125,
+            "offsetX": 25.40625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/49"
+                ],
+                [
+                    "div.wp-block-ultimate-post-post-pagination li:nth-of-type(4) > a"
+                ],
+                [
+                    "xpath///*[@id=\"post-8374\"]/div/div[2]/div[1]/div[2]/div/ul/li[4]/a"
+                ],
+                [
+                    "pierce/div.wp-block-ultimate-post-post-pagination li:nth-of-type(4) > a"
+                ],
+                [
+                    "text/49"
+                ]
+            ],
+            "offsetY": 18.8125,
+            "offsetX": 28.21875
+        }
+    ]
+}
