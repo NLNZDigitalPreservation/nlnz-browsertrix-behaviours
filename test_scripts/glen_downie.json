@@ -1,0 +1,311 @@
+{
+    "title": "glen_downie",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 863,
+            "height": 1255,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.glendowniecomposer.com/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/",
+                    "title": "Glen Downie Composer"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Biography",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "#comp-k5lq6srwmoreContainer0label"
+                ],
+                [
+                    "xpath///*[@id=\"comp-k5lq6srwmoreContainer0label\"]"
+                ],
+                [
+                    "pierce/#comp-k5lq6srwmoreContainer0label"
+                ]
+            ],
+            "offsetY": 16.203125,
+            "offsetX": 35.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/biography",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Performances & News",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "#comp-k5lq6srwmoreContainer1label"
+                ],
+                [
+                    "xpath///*[@id=\"comp-k5lq6srwmoreContainer1label\"]"
+                ],
+                [
+                    "pierce/#comp-k5lq6srwmoreContainer1label"
+                ]
+            ],
+            "offsetY": 11.203125,
+            "offsetX": 86.5,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/performances",
+                    "title": "Performances & News | Glen Downie Composer"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Photo Album",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "#comp-k5lq6srwmoreContainer2label"
+                ],
+                [
+                    "xpath///*[@id=\"comp-k5lq6srwmoreContainer2label\"]"
+                ],
+                [
+                    "pierce/#comp-k5lq6srwmoreContainer2label"
+                ]
+            ],
+            "offsetY": 19.203125,
+            "offsetX": 61.171875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/photo-album",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Orchestral Music",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "#comp-k5lq6srwmoreContainer0label"
+                ],
+                [
+                    "xpath///*[@id=\"comp-k5lq6srwmoreContainer0label\"]"
+                ],
+                [
+                    "pierce/#comp-k5lq6srwmoreContainer0label"
+                ]
+            ],
+            "offsetY": 17.203125,
+            "offsetX": 66.8125,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/orchestral-music",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Chamber Music",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "#comp-k5lq6srwmoreContainer1label"
+                ],
+                [
+                    "xpath///*[@id=\"comp-k5lq6srwmoreContainer1label\"]"
+                ],
+                [
+                    "pierce/#comp-k5lq6srwmoreContainer1label"
+                ]
+            ],
+            "offsetY": 7.203125,
+            "offsetX": 59.421875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/chamber-solo-music",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Solo Music",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "#comp-k5lq6srwmoreContainer2label"
+                ],
+                [
+                    "xpath///*[@id=\"comp-k5lq6srwmoreContainer2label\"]"
+                ],
+                [
+                    "pierce/#comp-k5lq6srwmoreContainer2label"
+                ]
+            ],
+            "offsetY": 25.203125,
+            "offsetX": 49.3125,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/solo-music",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Improvising Ensemble",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "#comp-k5lq6srwmoreContainer3label"
+                ],
+                [
+                    "xpath///*[@id=\"comp-k5lq6srwmoreContainer3label\"]"
+                ],
+                [
+                    "pierce/#comp-k5lq6srwmoreContainer3label"
+                ]
+            ],
+            "offsetY": 17.203125,
+            "offsetX": 115.25,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/improvising-ensemble",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Works List",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "#comp-k5lq6srwmoreContainer4label"
+                ],
+                [
+                    "xpath///*[@id=\"comp-k5lq6srwmoreContainer4label\"]"
+                ],
+                [
+                    "pierce/#comp-k5lq6srwmoreContainer4label"
+                ]
+            ],
+            "offsetY": 18.203125,
+            "offsetX": 61.296875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/works",
+                    "title": "Works List | Glen Downie Composer"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Other Projects",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "#comp-k5lq6srw2label"
+                ],
+                [
+                    "xpath///*[@id=\"comp-k5lq6srw2label\"]"
+                ],
+                [
+                    "pierce/#comp-k5lq6srw2label"
+                ],
+                [
+                    "text/Other Projects"
+                ]
+            ],
+            "offsetY": 33.203125,
+            "offsetX": 57.140625,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/other-projects",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Contact",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "#comp-k5lq6srw3label"
+                ],
+                [
+                    "xpath///*[@id=\"comp-k5lq6srw3label\"]"
+                ],
+                [
+                    "pierce/#comp-k5lq6srw3label"
+                ],
+                [
+                    "text/Contact"
+                ]
+            ],
+            "offsetY": 23.203125,
+            "offsetX": 45.203125,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.glendowniecomposer.com/contact",
+                    "title": "Contact | Glen Downie Composer"
+                }
+            ]
+        }
+    ]
+}
