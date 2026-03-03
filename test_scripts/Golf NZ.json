@@ -1,0 +1,105 @@
+{
+    "title": "Golf NZ",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 863,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.golf.co.nz/news",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.golf.co.nz/news",
+                    "title": "News - Golf New Zealand"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "button:nth-of-type(2) > span.button__text"
+                ],
+                [
+                    "xpath///*[@id=\"ctl78\"]/section[2]/div/div/div/div/div[2]/button[2]/span[1]"
+                ],
+                [
+                    "pierce/button:nth-of-type(2) > span.button__text"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 11.921875,
+            "offsetX": 43.671875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "button:nth-of-type(2) > span.button__text"
+                ],
+                [
+                    "xpath///*[@id=\"ctl78\"]/section[2]/div/div/div/div/div[2]/button[2]/span[1]"
+                ],
+                [
+                    "pierce/button:nth-of-type(2) > span.button__text"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 14.921875,
+            "offsetX": 40.265625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "button:nth-of-type(2) > span.button__text"
+                ],
+                [
+                    "xpath///*[@id=\"ctl78\"]/section[2]/div/div/div/div/div[2]/button[2]/span[1]"
+                ],
+                [
+                    "pierce/button:nth-of-type(2) > span.button__text"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 4.921875,
+            "offsetX": 52.359375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "button:nth-of-type(2) > span.button__text"
+                ],
+                [
+                    "xpath///*[@id=\"ctl78\"]/section[2]/div/div/div/div/div[2]/button[2]/span[1]"
+                ],
+                [
+                    "pierce/button:nth-of-type(2) > span.button__text"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 11.921875,
+            "offsetX": 55.71875
+        }
+    ]
+}
