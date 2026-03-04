@@ -1,0 +1,144 @@
+{
+    "title": "surf_nz",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1425,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.surflifesaving.org.nz/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.surflifesaving.org.nz/",
+                    "title": "Surf Lifesaving NZ - Homepage"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/News[role=\"link\"]"
+                ],
+                [
+                    "li.active li:nth-of-type(9) > a"
+                ],
+                [
+                    "xpath//html/body/nav/div/div[3]/div[2]/ul[1]/li[1]/ul/li[9]/a"
+                ],
+                [
+                    "pierce/li.active li:nth-of-type(9) > a"
+                ]
+            ],
+            "offsetY": 38,
+            "offsetX": 61.5,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.surflifesaving.org.nz/news",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load More"
+                ],
+                [
+                    "#news-btn"
+                ],
+                [
+                    "xpath///*[@id=\"news-btn\"]"
+                ],
+                [
+                    "pierce/#news-btn"
+                ],
+                [
+                    "text/Load More"
+                ]
+            ],
+            "offsetY": 34,
+            "offsetX": 90.53125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load More"
+                ],
+                [
+                    "#news-btn"
+                ],
+                [
+                    "xpath///*[@id=\"news-btn\"]"
+                ],
+                [
+                    "pierce/#news-btn"
+                ],
+                [
+                    "text/Load More"
+                ]
+            ],
+            "offsetY": 26,
+            "offsetX": 73.53125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load More"
+                ],
+                [
+                    "#news-btn"
+                ],
+                [
+                    "xpath///*[@id=\"news-btn\"]"
+                ],
+                [
+                    "pierce/#news-btn"
+                ],
+                [
+                    "text/Load More"
+                ]
+            ],
+            "offsetY": 41,
+            "offsetX": 56.53125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load More"
+                ],
+                [
+                    "#news-btn"
+                ],
+                [
+                    "xpath///*[@id=\"news-btn\"]"
+                ],
+                [
+                    "pierce/#news-btn"
+                ],
+                [
+                    "text/Load More"
+                ]
+            ],
+            "offsetY": 23,
+            "offsetX": 72.53125
+        }
+    ]
+}
