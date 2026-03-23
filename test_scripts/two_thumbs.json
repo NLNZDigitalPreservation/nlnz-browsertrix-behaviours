@@ -1,0 +1,45 @@
+{
+    "title": "two_thumbs",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 576,
+            "height": 631,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.twothumb.com/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.twothumb.com/",
+                    "title": "Two Thumb Brewing Co."
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Yes, I am[role=\"generic\"]"
+                ],
+                [
+                    "#comp-l7ziyyg8 > [data-testid='linkElement']"
+                ],
+                [
+                    "xpath///*[@data-testid=\"linkElement\"]"
+                ],
+                [
+                    "pierce/#comp-l7ziyyg8 > [data-testid='linkElement']"
+                ]
+            ],
+            "offsetY": 14.5,
+            "offsetX": 34
+        }
+    ]
+}
