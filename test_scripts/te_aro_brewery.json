@@ -1,0 +1,68 @@
+{
+    "title": "te_aro_brewery",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1231,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://tearobrewing.co.nz/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://tearobrewing.co.nz/",
+                    "title": "Age Verification - Te Aro Brewing Company Limited"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.age-gate__wrapper span"
+                ],
+                [
+                    "xpath//html/body/div[1]/div[4]/form/div[3]/label/span"
+                ],
+                [
+                    "pierce/div.age-gate__wrapper span"
+                ],
+                [
+                    "text/Remember me"
+                ]
+            ],
+            "offsetY": 0.125,
+            "offsetX": 69.328125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Yes"
+                ],
+                [
+                    "button.age-gate__submit--yes"
+                ],
+                [
+                    "xpath//html/body/div[1]/div[4]/form/div[2]/div/button[2]"
+                ],
+                [
+                    "pierce/button.age-gate__submit--yes"
+                ],
+                [
+                    "text/Yes"
+                ]
+            ],
+            "offsetY": 9.703125,
+            "offsetX": 36.640625
+        }
+    ]
+}
