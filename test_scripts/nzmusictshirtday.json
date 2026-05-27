@@ -1,0 +1,130 @@
+{
+    "title": "nzmusictshirtday",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 750,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.nzmusictshirtday.org.nz/nzmusictshirtday",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.nzmusictshirtday.org.nz/nzmusictshirtday",
+                    "title": "#nzmusictshirtday on Socials"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/click to load more posts",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "div.crt-load-more-container span"
+                ],
+                [
+                    "xpath///*[@id=\"curator-feed-default-feed-layout\"]/div[2]/div[2]/button/span"
+                ],
+                [
+                    "pierce/div.crt-load-more-container span"
+                ],
+                [
+                    "text/Load more"
+                ]
+            ],
+            "offsetY": 16.65625,
+            "offsetX": 42.03125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/click to load more posts"
+                ],
+                [
+                    "div.crt-load-more-container > button"
+                ],
+                [
+                    "xpath///*[@id=\"curator-feed-default-feed-layout\"]/div[2]/div[2]/button"
+                ],
+                [
+                    "pierce/div.crt-load-more-container > button"
+                ]
+            ],
+            "offsetY": 44.90625,
+            "offsetX": 76.03125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/click to load more posts"
+                ],
+                [
+                    "div.crt-load-more-container > button"
+                ],
+                [
+                    "xpath///*[@id=\"curator-feed-default-feed-layout\"]/div[2]/div[2]/button"
+                ],
+                [
+                    "pierce/div.crt-load-more-container > button"
+                ]
+            ],
+            "offsetY": 45.484375,
+            "offsetX": 76.03125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.crt-feed-scroll"
+                ],
+                [
+                    "xpath///*[@id=\"curator-feed-default-feed-layout\"]/div[2]"
+                ],
+                [
+                    "pierce/div.crt-feed-scroll"
+                ]
+            ],
+            "offsetY": 22898.890625,
+            "offsetX": 356
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/click to load more posts",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "div.crt-load-more-container span"
+                ],
+                [
+                    "xpath///*[@id=\"curator-feed-default-feed-layout\"]/div[2]/div[2]/button/span"
+                ],
+                [
+                    "pierce/div.crt-load-more-container span"
+                ],
+                [
+                    "text/Load more"
+                ]
+            ],
+            "offsetY": 17.75,
+            "offsetX": 66.03125
+        }
+    ]
+}
