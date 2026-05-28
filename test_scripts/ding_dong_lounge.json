@@ -1,0 +1,120 @@
+{
+    "title": "ding_dong_lounge",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 750,
+            "height": 1255,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.dingdongloungenz.com/tix",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.dingdongloungenz.com/tix",
+                    "title": "What's On | Ding Dong Lounge & Dead Witch"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Coming Up Fast Page Jam Night at Dead Witch Multiple Dates Jam Night at Dead Witch Thu, May 28 DETAILS Open Decks Night: Loud & Local Multiple Dates Open Decks Night: Loud & Local Thu, May 28 DETAILS Freaky Friday Multiple Dates 1 day to the event Freaky Friday Fri, May 29 GET TICKETS NOW LOCAL LEGENDS VOL.1",
+                    "aria/Load More"
+                ],
+                [
+                    "#comp-mgxbfea7 button"
+                ],
+                [
+                    "xpath///*[@id=\"wix-events-widget\"]/div/div[2]/div/button"
+                ],
+                [
+                    "pierce/#comp-mgxbfea7 button"
+                ]
+            ],
+            "offsetY": 26.203125,
+            "offsetX": 95.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#comp-mgxbdlm4 button"
+                ],
+                [
+                    "xpath///*[@id=\"wix-events-widget\"]/div/div[2]/div/button"
+                ],
+                [
+                    "pierce/#comp-mgxbdlm4 button"
+                ]
+            ],
+            "offsetY": 11.421875,
+            "offsetX": 87.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#comp-mkzb0dqi button"
+                ],
+                [
+                    "xpath///*[@id=\"wix-events-widget\"]/div/div[2]/div/button"
+                ],
+                [
+                    "pierce/#comp-mkzb0dqi button"
+                ]
+            ],
+            "offsetY": 15.1875,
+            "offsetX": 75.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#comp-mgxbiitu button"
+                ],
+                [
+                    "xpath///*[@id=\"wix-events-widget\"]/div/div[2]/div/button"
+                ],
+                [
+                    "pierce/#comp-mgxbiitu button"
+                ]
+            ],
+            "offsetY": 31.21875,
+            "offsetX": 118.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load More"
+                ],
+                [
+                    "#comp-mfyp33dx button"
+                ],
+                [
+                    "xpath///*[@id=\"wix-events-widget\"]/div/div[2]/div/button"
+                ],
+                [
+                    "pierce/#comp-mfyp33dx button"
+                ],
+                [
+                    "text/Load More"
+                ]
+            ],
+            "offsetY": 24.421875,
+            "offsetX": 66.5
+        }
+    ]
+}
