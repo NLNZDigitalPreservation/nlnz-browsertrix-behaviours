@@ -1,0 +1,162 @@
+{
+    "title": "pianola_2",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1144,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.pianola.co.nz/public/wmidi/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.pianola.co.nz/public/wmidi/",
+                    "title": "Pianola.co.nz"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Submit"
+                ],
+                [
+                    "#webcontent button:nth-of-type(1)"
+                ],
+                [
+                    "xpath///*[@id=\"frm_search\"]/div/div/button[1]"
+                ],
+                [
+                    "pierce/#webcontent button:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 24.5625,
+            "offsetX": 43.953125,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.pianola.co.nz/public/wmidi/?title=&song_type=&roll_brand=&roll_number=&roll_date=&search_type=normal&pianist=&composer=&composition_date=&Date_added=&sort_by=Title",
+                    "title": "Pianola.co.nz"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/2"
+                ],
+                [
+                    "span > a:nth-of-type(2)"
+                ],
+                [
+                    "xpath///*[@id=\"DataTables_Table_0_paginate\"]/span/a[2]"
+                ],
+                [
+                    "pierce/span > a:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 9.984375,
+            "offsetX": 17.265625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/3"
+                ],
+                [
+                    "span > a:nth-of-type(3)"
+                ],
+                [
+                    "xpath///*[@id=\"DataTables_Table_0_paginate\"]/span/a[3]"
+                ],
+                [
+                    "pierce/span > a:nth-of-type(3)"
+                ]
+            ],
+            "offsetY": 18.34375,
+            "offsetX": 12.828125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/4"
+                ],
+                [
+                    "span > a:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"DataTables_Table_0_paginate\"]/span/a[4]"
+                ],
+                [
+                    "pierce/span > a:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 8.703125,
+            "offsetX": 14.390625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/5"
+                ],
+                [
+                    "a:nth-of-type(5)"
+                ],
+                [
+                    "xpath///*[@id=\"DataTables_Table_0_paginate\"]/span/a[5]"
+                ],
+                [
+                    "pierce/a:nth-of-type(5)"
+                ]
+            ],
+            "offsetY": 13.203125,
+            "offsetX": 23.953125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/clicking here"
+                ],
+                [
+                    "#module_top_menu a"
+                ],
+                [
+                    "xpath///*[@id=\"module_top_menu\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/#module_top_menu a"
+                ],
+                [
+                    "text/clicking here"
+                ]
+            ],
+            "offsetY": 5.0625,
+            "offsetX": 43,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://pianola.co.nz/public/index.php/web/zip_download",
+                    "title": "Pianola.co.nz"
+                }
+            ]
+        }
+    ]
+}
