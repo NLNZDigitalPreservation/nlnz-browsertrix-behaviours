@@ -1,0 +1,113 @@
+{
+    "title": "speights_brewery",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1144,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.speights.co.nz/age-gate/?redirect_to=%2F",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.speights.co.nz/age-gate/?redirect_to=%2F",
+                    "title": "Age Gate - Speight's"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#pin-10"
+                ],
+                [
+                    "xpath///*[@id=\"pin-10\"]"
+                ],
+                [
+                    "pierce/#pin-10"
+                ]
+            ],
+            "offsetY": 26.5625,
+            "offsetX": 36
+        },
+        {
+            "type": "change",
+            "value": "1",
+            "selectors": [
+                [
+                    "#pin-10"
+                ],
+                [
+                    "xpath///*[@id=\"pin-10\"]"
+                ],
+                [
+                    "pierce/#pin-10"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "9",
+            "selectors": [
+                [
+                    "#pin-20"
+                ],
+                [
+                    "xpath///*[@id=\"pin-20\"]"
+                ],
+                [
+                    "pierce/#pin-20"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "8",
+            "selectors": [
+                [
+                    "#pin-30"
+                ],
+                [
+                    "xpath///*[@id=\"pin-30\"]"
+                ],
+                [
+                    "pierce/#pin-30"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "0",
+            "selectors": [
+                [
+                    "#pin-40"
+                ],
+                [
+                    "xpath///*[@id=\"pin-40\"]"
+                ],
+                [
+                    "pierce/#pin-40"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.speights.co.nz/",
+                    "title": ""
+                }
+            ]
+        }
+    ]
+}
