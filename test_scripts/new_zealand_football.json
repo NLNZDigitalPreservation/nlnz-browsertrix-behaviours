@@ -1,0 +1,117 @@
+{
+    "title": "new_zealand_football",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 942,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.nzfootball.co.nz/news",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.nzfootball.co.nz/news",
+                    "title": "NZ Football - NEWS"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_1841052\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 17.203125,
+            "offsetX": 31.625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_1841052\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 18.203125,
+            "offsetX": 30.625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_1841052\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 18.203125,
+            "offsetX": 30.625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_1841052\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 18.203125,
+            "offsetX": 30.625
+        }
+    ]
+}
