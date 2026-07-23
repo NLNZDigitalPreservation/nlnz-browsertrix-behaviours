@@ -1,0 +1,19 @@
+await page.evaluate(() => {
+  window.scrollTo(0, document.body.scrollHeight);
+});
+
+await page.waitForTimeout(5000);
+
+const imgs = await page.$$('[data-gallery-item-index]');
+
+for (const img of imgs) {
+  try {
+    await img.click();
+    await page.waitForTimeout(3000);
+
+    await page.keyboard.press('Escape');
+    await page.waitForTimeout(1000);
+  } catch (e) {
+    // ignore
+  }
+}
