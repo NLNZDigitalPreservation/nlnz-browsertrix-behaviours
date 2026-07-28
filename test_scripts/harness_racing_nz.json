@@ -1,0 +1,133 @@
+{
+    "title": "harness_racing_nz",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 981,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.hrnz.co.nz/news/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.hrnz.co.nz/news/",
+                    "title": "News"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Page 2"
+                ],
+                [
+                    "div.hrnz-block--padding li:nth-of-type(3) > a"
+                ],
+                [
+                    "xpath///*[@id=\"#main-content\"]/div/div[4]/nav/ul/li[3]/a"
+                ],
+                [
+                    "pierce/div.hrnz-block--padding li:nth-of-type(3) > a"
+                ]
+            ],
+            "offsetY": 22.265625,
+            "offsetX": 10.203125,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.hrnz.co.nz/news/?start=9",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Page 3"
+                ],
+                [
+                    "#\\#main-content li:nth-of-type(4) > a"
+                ],
+                [
+                    "xpath///*[@id=\"#main-content\"]/div/div[4]/nav/ul/li[4]/a"
+                ],
+                [
+                    "pierce/#\\#main-content li:nth-of-type(4) > a"
+                ]
+            ],
+            "offsetY": 19.546875,
+            "offsetX": 30.0625,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.hrnz.co.nz/news/?start=18",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Page 4"
+                ],
+                [
+                    "#\\#main-content li:nth-of-type(5) > a"
+                ],
+                [
+                    "xpath///*[@id=\"#main-content\"]/div/div[4]/nav/ul/li[5]/a"
+                ],
+                [
+                    "pierce/#\\#main-content li:nth-of-type(5) > a"
+                ]
+            ],
+            "offsetY": 23.46875,
+            "offsetX": 15.109375,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.hrnz.co.nz/news/?start=27",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Page 5"
+                ],
+                [
+                    "#\\#main-content li:nth-of-type(6) > a"
+                ],
+                [
+                    "xpath///*[@id=\"#main-content\"]/div/div[4]/nav/ul/li[6]/a"
+                ],
+                [
+                    "pierce/#\\#main-content li:nth-of-type(6) > a"
+                ]
+            ],
+            "offsetY": 25.265625,
+            "offsetX": 25.703125,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.hrnz.co.nz/news/?start=36",
+                    "title": ""
+                }
+            ]
+        }
+    ]
+}
