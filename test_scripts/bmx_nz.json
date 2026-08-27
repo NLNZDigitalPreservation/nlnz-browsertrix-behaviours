@@ -1,0 +1,117 @@
+{
+    "title": "bmx_nz",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1183,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.bmxnz.co.nz/news-media/news",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.bmxnz.co.nz/news-media/news",
+                    "title": "BMX New Zealand - News"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_1583636\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 13.890625,
+            "offsetX": 39.28125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_1583636\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 12.890625,
+            "offsetX": 47.625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_1583636\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 12.890625,
+            "offsetX": 47.625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Older →"
+                ],
+                [
+                    "li.news-list-next > a"
+                ],
+                [
+                    "xpath///*[@id=\"widget_1583636\"]/ul/li[2]/a"
+                ],
+                [
+                    "pierce/li.news-list-next > a"
+                ],
+                [
+                    "text/Older →"
+                ]
+            ],
+            "offsetY": 12.890625,
+            "offsetX": 47.625
+        }
+    ]
+}
