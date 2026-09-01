@@ -1,0 +1,207 @@
+{
+    "title": "brewers_guild",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 981,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://brewersguild.org.nz/nz-beer-awards-2026/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brewersguild.org.nz/nz-beer-awards-2026/",
+                    "title": "NZ Beer Awards - 2026 - The Brewers Guild"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/AWARDS GALLERY",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "#awards-gallery > span"
+                ],
+                [
+                    "xpath///*[@id=\"awards-gallery\"]/span"
+                ],
+                [
+                    "pierce/#awards-gallery > span"
+                ]
+            ],
+            "offsetY": 30.3125,
+            "offsetX": 56.140625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/AWARDS DINNER"
+                ],
+                [
+                    "div.bgnz-ag__folders > button:nth-of-type(1)"
+                ],
+                [
+                    "xpath///*[@id=\"e-n-tab-content-2262821233\"]/div[2]/div/div/div/div[1]/button[1]"
+                ],
+                [
+                    "pierce/div.bgnz-ag__folders > button:nth-of-type(1)"
+                ],
+                [
+                    "text/Awards Dinner"
+                ]
+            ],
+            "offsetY": 18.3125,
+            "offsetX": 123
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/AWARD & MEDAL WINNERS"
+                ],
+                [
+                    "div.bgnz-ag__folders > button:nth-of-type(2)"
+                ],
+                [
+                    "xpath///*[@id=\"e-n-tab-content-2262821233\"]/div[2]/div/div/div/div[1]/button[2]"
+                ],
+                [
+                    "pierce/div.bgnz-ag__folders > button:nth-of-type(2)"
+                ],
+                [
+                    "text/Award & Medal"
+                ]
+            ],
+            "offsetY": 26.3125,
+            "offsetX": 214.046875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/CONFERENCE PHOTOS"
+                ],
+                [
+                    "div.bgnz-ag__folders > button:nth-of-type(3)"
+                ],
+                [
+                    "xpath///*[@id=\"e-n-tab-content-2262821233\"]/div[2]/div/div/div/div[1]/button[3]"
+                ],
+                [
+                    "pierce/div.bgnz-ag__folders > button:nth-of-type(3)"
+                ],
+                [
+                    "text/Conference Photos"
+                ]
+            ],
+            "offsetY": 24.3125,
+            "offsetX": 114.34375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/PRE-DINNER AT ST PAUL'S CATHEDRAL"
+                ],
+                [
+                    "div.e-n-tabs-content button:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"e-n-tab-content-2262821233\"]/div[2]/div/div/div/div[1]/button[4]"
+                ],
+                [
+                    "pierce/div.e-n-tabs-content button:nth-of-type(4)"
+                ],
+                [
+                    "text/Pre-Dinner at"
+                ]
+            ],
+            "offsetY": 34.3125,
+            "offsetX": 259
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/EMERSON'S BREAKFAST"
+                ],
+                [
+                    "div.e-n-tabs-content button:nth-of-type(5)"
+                ],
+                [
+                    "xpath///*[@id=\"e-n-tab-content-2262821233\"]/div[2]/div/div/div/div[1]/button[5]"
+                ],
+                [
+                    "pierce/div.e-n-tabs-content button:nth-of-type(5)"
+                ],
+                [
+                    "text/Emerson's Breakfast"
+                ]
+            ],
+            "offsetY": 30.3125,
+            "offsetX": 179.90625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/MASHING IN"
+                ],
+                [
+                    "div.e-n-tabs-content button:nth-of-type(6)"
+                ],
+                [
+                    "xpath///*[@id=\"e-n-tab-content-2262821233\"]/div[2]/div/div/div/div[1]/button[6]"
+                ],
+                [
+                    "pierce/div.e-n-tabs-content button:nth-of-type(6)"
+                ],
+                [
+                    "text/Mashing In"
+                ]
+            ],
+            "offsetY": 40.3125,
+            "offsetX": 120
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/MEDIA REQUESTS"
+                ],
+                [
+                    "button:nth-of-type(7)"
+                ],
+                [
+                    "xpath///*[@id=\"e-n-tab-content-2262821233\"]/div[2]/div/div/div/div[1]/button[7]"
+                ],
+                [
+                    "pierce/button:nth-of-type(7)"
+                ],
+                [
+                    "text/Media Requests"
+                ]
+            ],
+            "offsetY": 33.3125,
+            "offsetX": 160.375
+        }
+    ]
+}
