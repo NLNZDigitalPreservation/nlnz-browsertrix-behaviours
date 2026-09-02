@@ -1,0 +1,105 @@
+{
+    "title": "all_blacks",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 981,
+            "height": 1270,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.allblacks.com/news",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.allblacks.com/news",
+                    "title": "NZ Rugby News | All Blacks News | Black Ferns News"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load more"
+                ],
+                [
+                    "div.editorial-grid-regular-landscape-cards button"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/div[5]/section/div[2]/div[13]/button"
+                ],
+                [
+                    "pierce/div.editorial-grid-regular-landscape-cards button"
+                ]
+            ],
+            "offsetY": 31.90625,
+            "offsetX": 74.59375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load more"
+                ],
+                [
+                    "div.editorial-grid-regular-landscape-cards button"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/div[5]/section/div[2]/div[13]/button"
+                ],
+                [
+                    "pierce/div.editorial-grid-regular-landscape-cards button"
+                ]
+            ],
+            "offsetY": 31.34375,
+            "offsetX": 74.59375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Load more"
+                ],
+                [
+                    "div.editorial-grid-regular-landscape-cards button"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/div[5]/section/div[2]/div[13]/button"
+                ],
+                [
+                    "pierce/div.editorial-grid-regular-landscape-cards button"
+                ]
+            ],
+            "offsetY": 31.78125,
+            "offsetX": 74.59375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.col-span-full span"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/div[5]/section/div[2]/div[49]/button/div/span"
+                ],
+                [
+                    "pierce/div.col-span-full span"
+                ],
+                [
+                    "text/Load more"
+                ]
+            ],
+            "offsetY": 7.625,
+            "offsetX": 58.59375
+        }
+    ]
+}
