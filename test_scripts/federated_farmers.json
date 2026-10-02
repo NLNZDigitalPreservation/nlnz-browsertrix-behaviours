@@ -1,0 +1,154 @@
+{
+    "title": "federated_farmers",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1183,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.fedfarm.org.nz/Web/Web/Media-Releases.aspx?hkey=eeb27cba-4fad-43fa-904c-4d5ccfc15ccb",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.fedfarm.org.nz/Web/Web/Media-Releases.aspx?hkey=eeb27cba-4fad-43fa-904c-4d5ccfc15ccb",
+                    "title": "Media Releases"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "li:nth-of-type(1) > div.dynamicfoot > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctl01_TemplateBody_WebPartManager1_gwpciMediaReleaseList_ciMediaReleaseList__Body\"]/div/div/div/div[1]/div/div/ul[1]/li[1]/div[3]/a"
+                ],
+                [
+                    "pierce/li:nth-of-type(1) > div.dynamicfoot > a"
+                ]
+            ],
+            "offsetY": 5.734375,
+            "offsetX": 42.90625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "li:nth-of-type(2) > div.dynamicfoot > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctl01_TemplateBody_WebPartManager1_gwpciMediaReleaseList_ciMediaReleaseList__Body\"]/div/div/div/div[1]/div/div/ul[1]/li[2]/div[3]/a"
+                ],
+                [
+                    "pierce/li:nth-of-type(2) > div.dynamicfoot > a"
+                ]
+            ],
+            "offsetY": 4.734375,
+            "offsetX": 23.90625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "li:nth-of-type(3) > div.dynamicfoot > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctl01_TemplateBody_WebPartManager1_gwpciMediaReleaseList_ciMediaReleaseList__Body\"]/div/div/div/div[1]/div/div/ul[1]/li[3]/div[3]/a"
+                ],
+                [
+                    "pierce/li:nth-of-type(3) > div.dynamicfoot > a"
+                ]
+            ],
+            "offsetY": 24.734375,
+            "offsetX": 20.90625,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.fedfarm.org.nz/Web/Media-Release/2026/August/Farm-safety-rules-get-a-dose-of-clarity.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SUBMISSIONS"
+                ],
+                [
+                    "li:nth-of-type(5) li:nth-of-type(1) > a"
+                ],
+                [
+                    "xpath///*[@id=\"psc-primary-nav\"]/ul/li[5]/ul/div[2]/li[1]/a"
+                ],
+                [
+                    "pierce/li:nth-of-type(5) li:nth-of-type(1) > a"
+                ],
+                [
+                    "text/Submissions"
+                ]
+            ],
+            "offsetY": 9.609375,
+            "offsetX": 85.671875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.fedfarm.org.nz/Web/Web/Policy/Submissions.aspx?hkey=4fec8cdf-ee29-4ae4-8455-031222da1a0d",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "li:nth-of-type(2) > div.dynamicfoot > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctl01_TemplateBody_WebPartManager1_gwpciSubmissions_ciSubmissions__Body\"]/div/div/div/div[1]/div/div/ul[1]/li[2]/div[3]/a"
+                ],
+                [
+                    "pierce/li:nth-of-type(2) > div.dynamicfoot > a"
+                ]
+            ],
+            "offsetY": 13.40625,
+            "offsetX": 29.90625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "li:nth-of-type(3) > div.dynamicfoot > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctl01_TemplateBody_WebPartManager1_gwpciSubmissions_ciSubmissions__Body\"]/div/div/div/div[1]/div/div/ul[1]/li[3]/div[3]/a"
+                ],
+                [
+                    "pierce/li:nth-of-type(3) > div.dynamicfoot > a"
+                ]
+            ],
+            "offsetY": 5.40625,
+            "offsetX": 50.90625,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.fedfarm.org.nz/Web/Policy/Submission/2026/July/Submission-on-Gore-Draft-Subdivision-and-Land-Development-Bylaw-2026.aspx",
+                    "title": ""
+                }
+            ]
+        }
+    ]
+}
