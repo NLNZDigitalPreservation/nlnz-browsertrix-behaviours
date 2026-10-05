@@ -1,0 +1,160 @@
+{
+    "title": "parliament_pulse",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1188,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://parliamentpulse.co.nz/mps",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://parliamentpulse.co.nz/mps",
+                    "title": "All 123 NZ MPs: Search, Filter and Compare | Parliament Pulse"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Gerry Brownlee, National (Speaker)"
+                ],
+                [
+                    "g:nth-of-type(1) > circle"
+                ],
+                [
+                    "xpath///*[@id=\"main-content\"]/div/div[3]/div[1]/div/div[2]/svg/g[1]/circle"
+                ],
+                [
+                    "pierce/g:nth-of-type(1) > circle"
+                ]
+            ],
+            "offsetY": 25.998748779296875,
+            "offsetX": 34.5582275390625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Back to MP directory",
+                    "aria/[role=\"image\"]"
+                ],
+                [
+                    "div:nth-of-type(2) > div:nth-of-type(1) svg"
+                ],
+                [
+                    "xpath///*[@id=\"main-content\"]/div/div[1]/div[2]/div[1]/button/svg"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > div:nth-of-type(1) svg"
+                ]
+            ],
+            "offsetY": 2.25,
+            "offsetX": 10
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Ayesha Verrall, Labour"
+                ],
+                [
+                    "g:nth-of-type(37) > circle"
+                ],
+                [
+                    "xpath///*[@id=\"main-content\"]/div/div[3]/div[1]/div/div[2]/svg/g[37]/circle"
+                ],
+                [
+                    "pierce/g:nth-of-type(37) > circle"
+                ]
+            ],
+            "offsetY": 14.479339599609375,
+            "offsetX": 24.349853515625
+        },
+        {
+            "type": "navigate",
+            "url": "https://parliamentpulse.co.nz/mps",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://parliamentpulse.co.nz/mps",
+                    "title": "All 123 NZ MPs: Search, Filter and Compare | Parliament Pulse"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Jan Tinetti, Labour"
+                ],
+                [
+                    "g:nth-of-type(38) > circle"
+                ],
+                [
+                    "xpath///*[@id=\"main-content\"]/div/div[3]/div[1]/div/div[2]/svg/g[38]/circle"
+                ],
+                [
+                    "pierce/g:nth-of-type(38) > circle"
+                ]
+            ],
+            "offsetY": 16.479339599609375,
+            "offsetX": 18.53057861328125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Back to MP directory"
+                ],
+                [
+                    "#main-content > div > div:nth-of-type(1) button"
+                ],
+                [
+                    "xpath///*[@id=\"main-content\"]/div/div[1]/div[2]/div[1]/button"
+                ],
+                [
+                    "pierce/#main-content > div > div:nth-of-type(1) button"
+                ],
+                [
+                    "text/Back to MP directory"
+                ]
+            ],
+            "offsetY": 9.5,
+            "offsetX": 38
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Greg O'Connor, Labour"
+                ],
+                [
+                    "g:nth-of-type(55) > circle"
+                ],
+                [
+                    "xpath///*[@id=\"main-content\"]/div/div[3]/div[1]/div/div[2]/svg/g[55]/circle"
+                ],
+                [
+                    "pierce/g:nth-of-type(55) > circle"
+                ]
+            ],
+            "offsetY": 15.479339599609375,
+            "offsetX": 24.33538818359375
+        }
+    ]
+}
