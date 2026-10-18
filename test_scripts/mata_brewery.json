@@ -1,0 +1,48 @@
+{
+    "title": "mata_brewery",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1198,
+            "height": 911,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://matabeer.nz/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://matabeer.nz/",
+                    "title": "Age Verification - Mata Brewery"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Yes"
+                ],
+                [
+                    "button.age-gate-submit-yes"
+                ],
+                [
+                    "xpath//html/body/div[1]/div[4]/form/div[2]/div/button[1]"
+                ],
+                [
+                    "pierce/button.age-gate-submit-yes"
+                ],
+                [
+                    "text/Yes"
+                ]
+            ],
+            "offsetY": 13.25,
+            "offsetX": 21.84375
+        }
+    ]
+}
